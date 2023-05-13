@@ -1,0 +1,1 @@
+kaggle competitions submit -c hp-supply-chain-optimization -f submission.csv -m "First Submission"
